@@ -57,3 +57,30 @@ As one of the pioneer models in this field, Diff-Symbo paves the way towards con
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | **Ours** <br><audio controls><source src="./data/8-bar/ours/0.wav" type="audio/wav">Your browser does not support the audio element.</audio> | **Ours with cfg** <br>  <audio controls><source src="./data/8-bar/ours_cfg/0.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
 | **Musecoco**<br>  <audio controls><source src="./data/8-bar/Musecoco/0.wav" type="audio/wav">Your browser does not support the audio element.</audio> | **GPT-4** <br> <audio controls><source src="./data/8-bar/GPT-4/0.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
+
+## Music Continuation
+
+<h3 id = "3"> Case 1</h3>
+
+
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
+| **Ground truth** <br><audio controls><source src="./data/continuation/GT/0.wav" type="audio/wav">Your browser does not support the audio element.</audio> | **Ours** <br>  <audio controls><source src="./data/continuation/ours/0.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
+| **MMT**<br>  <audio controls><source src="./data/continuation/MMT/0.wav" type="audio/wav">Your browser does not support the audio element.</audio> | **GPT-4** <br> <audio controls><source src="./data/continuation/GPT-4/0.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
+
+
+<h3 id = "3"> Case 2</h3>
+
+
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
+| **Ground truth** <br><audio controls><source src="./data/continuation/GT/10.wav" type="audio/wav">Your browser does not support the audio element.</audio> | **Ours** <br>  <audio controls><source src="./data/continuation/ours/10.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
+| **MMT**<br>  <audio controls><source src="./data/continuation/MMT/10.wav" type="audio/wav">Your browser does not support the audio element.</audio> | **GPT-4** <br> <audio controls><source src="./data/continuation/GPT-4/10.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
+
+
+<h3 id = "3"> Case 3</h3>
+
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
+| **Ground truth** <br><audio controls><source src="./data/continuation/GT/15.wav" type="audio/wav">Your browser does not support the audio element.</audio> | **Ours** <br>  <audio controls><source src="./data/continuation/ours/15.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
+| **MMT**<br>  <audio controls><source src="./data/continuation/MMT/15.wav" type="audio/wav">Your browser does not support the audio element.</audio> | **GPT-4** <br> <audio controls><source src="./data/continuation/GPT-4/15.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
+
+
+
