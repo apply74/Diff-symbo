@@ -25,7 +25,7 @@ As one of the pioneer models in this field, Diff-Symbo paves the way towards con
 
 <h3 id = "3"> Case 1</h3>
 
-|**Text decription: The music, performed by piano, guitar, bass, strings and drum, is perfect for dancing with its peaceful beat and rapid tempo in the 4/4. Composed in the major key, it has a pitch range within 3 octaves.**|
+**Text decription: The music, performed by piano, guitar, bass, strings and drum, is perfect for dancing with its peaceful beat and rapid tempo in the 4/4. Composed in the major key, it has a pitch range within 3 octaves.**
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | **Ours** <br><audio controls><source src="./data/8-bar/ours/44.wav" type="audio/wav">Your browser does not support the audio element.</audio> | **Ours with cfg** <br>  <audio controls><source src="./data/8-bar/ours_cfg/44.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
 | **Musecoco**<br>  <audio controls><source src="./data/8-bar/Musecoco/44.wav" type="audio/wav">Your browser does not support the audio element.</audio> | **GPT-4** <br> <audio controls><source src="./data/8-bar/GPT-4/44.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
@@ -33,7 +33,7 @@ As one of the pioneer models in this field, Diff-Symbo paves the way towards con
 
 <h3 id = "3"> Case 2</h3>
 
-|**Text decription: This music is performed by drum, organ and guitar and is suitable for dancing, featuring a very peaceful beat in the 4/4. Composed in the major key, the tempo of this song is rapid with a pitch range within 4 octaves.**|
+**Text decription: This music is performed by drum, organ and guitar and is suitable for dancing, featuring a very peaceful beat in the 4/4. Composed in the major key, the tempo of this song is rapid with a pitch range within 4 octaves.**
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | **Ours** <br><audio controls><source src="./data/8-bar/ours/29.wav" type="audio/wav">Your browser does not support the audio element.</audio> | **Ours with cfg** <br>  <audio controls><source src="./data/8-bar/ours_cfg/29.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
 | **Musecoco**<br>  <audio controls><source src="./data/8-bar/Musecoco/29.wav" type="audio/wav">Your browser does not support the audio element.</audio> | **GPT-4** <br> <audio controls><source src="./data/8-bar/GPT-4/29.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
@@ -41,7 +41,7 @@ As one of the pioneer models in this field, Diff-Symbo paves the way towards con
 
 <h3 id = "3"> Case 3</h3>
 
-|**Text decription: This music in 6/8 time signature is performed by guitar and bass and has a very peaceful beat. It is composed in the major key and the tempo of this song is rapid, with a pitch range within 2 octaves.**|
+**Text decription: This music in 6/8 time signature is performed by guitar and bass and has a very peaceful beat. It is composed in the major key and the tempo of this song is rapid, with a pitch range within 2 octaves.**
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | **Ours** <br><audio controls><source src="./data/8-bar/ours/42.wav" type="audio/wav">Your browser does not support the audio element.</audio> | **Ours with cfg** <br>  <audio controls><source src="./data/8-bar/ours_cfg/42.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
 | **Musecoco**<br>  <audio controls><source src="./data/8-bar/Musecoco/42.wav" type="audio/wav">Your browser does not support the audio element.</audio> | **GPT-4** <br> <audio controls><source src="./data/8-bar/GPT-4/42.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
@@ -49,7 +49,7 @@ As one of the pioneer models in this field, Diff-Symbo paves the way towards con
 
 <h3 id = "3"> Case 4</h3>
 
-|**Text decription: This music is performed by piano, percussion, guitar, bass, synthesizer and drum and is suitable for dancing, featuring a very peaceful beat in the 4/4.**|
+**Text decription: This music is performed by piano, percussion, guitar, bass, synthesizer and drum and is suitable for dancing, featuring a very peaceful beat in the 4/4.**
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | **Ours** <br><audio controls><source src="./data/8-bar/ours/0.wav" type="audio/wav">Your browser does not support the audio element.</audio> | **Ours with cfg** <br>  <audio controls><source src="./data/8-bar/ours_cfg/0.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
 | **Musecoco**<br>  <audio controls><source src="./data/8-bar/Musecoco/0.wav" type="audio/wav">Your browser does not support the audio element.</audio> | **GPT-4** <br> <audio controls><source src="./data/8-bar/GPT-4/0.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
