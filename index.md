@@ -81,7 +81,7 @@ As one of the pioneer models in this field, Diff-Symbo paves the way towards con
 | **Ground truth** <br><audio controls><source src="./data/continuation/GT/0.wav" type="audio/wav">Your browser does not support the audio element.</audio> | **Ours** <br>  <audio controls><source src="./data/continuation/ours/0.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
 | <img src="./data/fig/continuation/GT/0.png" alt="noisy" width="100%" /> | <img src="./data/fig/continuation/ours/0.png" alt="baseline" width="100%" /> |
 | **MMT**<br>  <audio controls><source src="./data/continuation/MMT/0.wav" type="audio/wav">Your browser does not support the audio element.</audio> | **GPT-4** <br> <audio controls><source src="./data/continuation/GPT-4/0.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
-| <img src="./data/fig/continuation/GT/8.png" alt="noisy" width="100%" /> | <img src="./data/fig/continuation/GPT/0.png" alt="baseline" width="100%" /> |
+| <img src="./data/fig/continuation/GT/0.png" alt="noisy" width="100%" /> | <img src="./data/fig/continuation/GPT/0.png" alt="baseline" width="100%" /> |
 
 
 <h3 id = "3"> Case 3</h3>
