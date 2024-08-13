@@ -71,17 +71,17 @@ As one of the pioneer models in this field, Diff-Symbo paves the way towards con
 
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | **Ground truth** <br><audio controls><source src="./data/continuation/GT/8.wav" type="audio/wav">Your browser does not support the audio element.</audio> | **Ours** <br>  <audio controls><source src="./data/continuation/ours/8.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
-| <img src="./data/samples/MusicVAE_OctupleMIDI/1.jpg" alt="noisy" width="100%" /> | <img src="./data/samples/MusicVAE_OctupleMIDI/2.jpg" alt="baseline" width="100%" /> |
+| <img src="./data/fig/continuation/GT/8.png" alt="noisy" width="100%" /> | <img src="./data/fig/continuation/ours/8.png" alt="baseline" width="100%" /> |
 | **MMT**<br>  <audio controls><source src="./data/continuation/MMT/8.wav" type="audio/wav">Your browser does not support the audio element.</audio> | **GPT-4** <br> <audio controls><source src="./data/continuation/GPT-4/8.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
-| <img src="./data/samples/MusicVAE_OctupleMIDI/1.jpg" alt="noisy" width="100%" /> | <img src="./data/samples/MusicVAE_OctupleMIDI/2.jpg" alt="baseline" width="100%" /> |
+| <img src="./data/fig/continuation/GT/8.png1" alt="noisy" width="100%" /> | <img src="./data/fig/continuation/GPT/8.png" alt="baseline" width="100%" /> |
 
 <h3 id = "3"> Case 2</h3>
 
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | **Ground truth** <br><audio controls><source src="./data/continuation/GT/0.wav" type="audio/wav">Your browser does not support the audio element.</audio> | **Ours** <br>  <audio controls><source src="./data/continuation/ours/0.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
-| <img src="./data/samples/MusicVAE_OctupleMIDI/1.jpg" alt="noisy" width="100%" /> | <img src="./data/samples/MusicVAE_OctupleMIDI/2.jpg" alt="baseline" width="100%" /> |
+| <img src="./data/fig/continuation/GT/0.png" alt="noisy" width="100%" /> | <img src="./data/fig/continuation/ours/0.png" alt="baseline" width="100%" /> |
 | **MMT**<br>  <audio controls><source src="./data/continuation/MMT/0.wav" type="audio/wav">Your browser does not support the audio element.</audio> | **GPT-4** <br> <audio controls><source src="./data/continuation/GPT-4/0.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
-| <img src="./data/samples/MusicVAE_OctupleMIDI/1.jpg" alt="noisy" width="100%" /> | <img src="./data/samples/MusicVAE_OctupleMIDI/2.jpg" alt="baseline" width="100%" /> |
+| <img src="./data/fig/continuation/GT/8.png" alt="noisy" width="100%" /> | <img src="./data/fig/continuation/GPT/0.png" alt="baseline" width="100%" /> |
 
 
 <h3 id = "3"> Case 3</h3>
@@ -89,17 +89,17 @@ As one of the pioneer models in this field, Diff-Symbo paves the way towards con
 
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | **Ground truth** <br><audio controls><source src="./data/continuation/GT/10.wav" type="audio/wav">Your browser does not support the audio element.</audio> | **Ours** <br>  <audio controls><source src="./data/continuation/ours/10.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
-| <img src="./data/samples/MusicVAE_OctupleMIDI/1.jpg" alt="noisy" width="100%" /> | <img src="./data/samples/MusicVAE_OctupleMIDI/2.jpg" alt="baseline" width="100%" /> |
+| <img src="./data/fig/continuation/GT/10.png" alt="noisy" width="100%" /> | <img src="./data/fig/continuation/ours/10.png" alt="baseline" width="100%" /> |
 | **MMT**<br>  <audio controls><source src="./data/continuation/MMT/10.wav" type="audio/wav">Your browser does not support the audio element.</audio> | **GPT-4** <br> <audio controls><source src="./data/continuation/GPT-4/10.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
-| <img src="./data/samples/MusicVAE_OctupleMIDI/1.jpg" alt="noisy" width="100%" /> | <img src="./data/samples/MusicVAE_OctupleMIDI/2.jpg" alt="baseline" width="100%" /> |
+| <img src="./data/fig/continuation/GT/10.png" alt="noisy" width="100%" /> | <img src="./data/fig/continuation/GPT/10.png" alt="baseline" width="100%" /> |
 
 <h3 id = "3"> Case 4</h3>
 
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | **Ground truth** <br><audio controls><source src="./data/continuation/GT/15.wav" type="audio/wav">Your browser does not support the audio element.</audio> | **Ours** <br>  <audio controls><source src="./data/continuation/ours/15.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
-| <img src="./data/samples/MusicVAE_OctupleMIDI/1.jpg" alt="noisy" width="100%" /> | <img src="./data/samples/MusicVAE_OctupleMIDI/2.jpg" alt="baseline" width="100%" /> |
+| <img src="./data/fig/continuation/GT/15.png" alt="noisy" width="100%" /> | <img src="./data/fig/continuation/ours/15.png" alt="baseline" width="100%" /> |
 | **MMT**<br>  <audio controls><source src="./data/continuation/MMT/15.wav" type="audio/wav">Your browser does not support the audio element.</audio> | **GPT-4** <br> <audio controls><source src="./data/continuation/GPT-4/15.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
-| <img src="./data/samples/MusicVAE_OctupleMIDI/1.jpg" alt="noisy" width="100%" /> | <img src="./data/samples/MusicVAE_OctupleMIDI/2.jpg" alt="baseline" width="100%" /> |
+| <img src="./data/fig/continuation/GT/15.png" alt="noisy" width="100%" /> | <img src="./data/fig/continuation/GPT/15.png" alt="baseline" width="100%" /> |
 
 
 
