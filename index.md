@@ -105,38 +105,43 @@ As one of the pioneer models in this field, Diff-Symbo paves the way towards con
 
 
 
-## Text-to-32 bar Music Generation
+## Text-to-32-bar Music Generation
 <h3 id = "3"> Case 1</h3>
 
+
+**Text decription: Piano, strings, drum and bass bring this dance-friendly music to life, featuring a strong beat in the 4/4 time signature. Composed in the dynamic minor key, the tempo of this track is fast, with a pitch range within 4 octaves.**
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | **Ours** <br><audio controls><source src="./data/32-bar/Ours/24.wav" type="audio/wav">Your browser does not support the audio element.</audio> | **MMT** <br>  <audio controls><source src="./data/32-bar/MMT/24.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
 | <img src="./data/fig/32-bar/ours/24.png" alt="noisy" width="100%" /> | <img src="./data/fig/32-bar/MMT/24.png" alt="baseline" width="100%" /> |
-| **GPT-4**<br>  <audio controls><source src="./data/32-bar/GPT/24.wav" type="audio/wav">Your browser does not support the audio element.</audio> | :-----------: |
-| <img src="./data/fig/32-bar/GPT/24.png" alt="noisy" width="100%" /> | :--------: |
+| **GPT-4**<br>  <audio controls><source src="./data/32-bar/GPT/24.wav" type="audio/wav">Your browser does not support the audio element.</audio> ||
+| <img src="./data/fig/32-bar/GPT/24.png" alt="noisy" width="100%" /> ||
 
 <h3 id = "3"> Case 2</h3>
 
+
+**Text decription: Piano perform this danceable music with a moderate beat in 3/4. The music, composed in the major key, features a rapid tempo and a pitch range within 3 octaves.**
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | **Ours** <br><audio controls><source src="./data/32-bar/Ours/25.wav" type="audio/wav">Your browser does not support the audio element.</audio> | **MMT** <br>  <audio controls><source src="./data/32-bar/MMT/25.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
 | <img src="./data/fig/32-bar/ours/25.png" alt="noisy" width="100%" /> | <img src="./data/fig/32-bar/MMT/25.png" alt="baseline" width="100%" /> |
-| **GPT-4**<br>  <audio controls><source src="./data/32-bar/GPT/25.wav" type="audio/wav">Your browser does not support the audio element.</audio> | :-----------: |
-| <img src="./data/fig/32-bar/GPT/25.png" alt="noisy" width="100%" /> | :--------: |
+| **GPT-4**<br>  <audio controls><source src="./data/32-bar/GPT/25.wav" type="audio/wav">Your browser does not support the audio element.</audio> | |
+| <img src="./data/fig/32-bar/GPT/25.png" alt="noisy" width="100%" /> | |
 
 
 <h3 id = "3"> Case 3</h3>
 
-
+**Text decription: Piano, organ, bass, strings and drum bring this dance-friendly music to life, featuring a strong beat in the 3/4 time signature. Composed in the dynamic major key, the tempo of this track is fast, with a pitch range within 4 octaves.**
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | **Ours** <br><audio controls><source src="./data/32-bar/Ours/34.wav" type="audio/wav">Your browser does not support the audio element.</audio> | **MMT** <br>  <audio controls><source src="./data/32-bar/MMT/34.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
 | <img src="./data/fig/32-bar/ours/34.png" alt="noisy" width="100%" /> | <img src="./data/fig/32-bar/MMT/34.png" alt="baseline" width="100%" /> |
-| **GPT-4**<br>  <audio controls><source src="./data/32-bar/GPT/34.wav" type="audio/wav">Your browser does not support the audio element.</audio> | :-----------: |
-| <img src="./data/fig/32-bar/GPT/34.png" alt="noisy" width="100%" /> | :--------: |
+| **GPT-4**<br>  <audio controls><source src="./data/32-bar/GPT/34.wav" type="audio/wav">Your browser does not support the audio element.</audio> | |
+| <img src="./data/fig/32-bar/GPT/34.png" alt="noisy" width="100%" /> | |
 
 <h3 id = "3"> Case 4</h3>
 
+**This music, played by piano, drum, guitar and bass, is ideal for dancing, with a powerful beat and rhythmic flow in the 4/4 time signature. Written in the major key, the tempo of this piece is quick, and its pitch range spans 4 octaves.**
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | **Ours** <br><audio controls><source src="./data/32-bar/Ours/53.wav" type="audio/wav">Your browser does not support the audio element.</audio> | **MMT** <br>  <audio controls><source src="./data/32-bar/MMT/53.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
 | <img src="./data/fig/32-bar/ours/53.png" alt="noisy" width="100%" /> | <img src="./data/fig/32-bar/MMT/53.png" alt="baseline" width="100%" /> |
-| **GPT-4**<br>  <audio controls><source src="./data/32-bar/GPT/53.wav" type="audio/wav">Your browser does not support the audio element.</audio> | :-----------: |
-| <img src="./data/fig/32-bar/GPT/53.png" alt="noisy" width="100%" /> | :--------: |
+| **GPT-4**<br>  <audio controls><source src="./data/32-bar/GPT/53.wav" type="audio/wav">Your browser does not support the audio element.</audio> |  |
+| <img src="./data/fig/32-bar/GPT/53.png" alt="noisy" width="100%" /> | |
 
