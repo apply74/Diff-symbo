@@ -21,7 +21,7 @@ As one of the pioneer models in this field, Diff-Symbo paves the way towards con
 
 
 
-## Text-to-8 Bar Music Generation 
+## Text-to-8-Bar Music Generation 
 
 <h3 id = "3"> Case 1</h3>
 
@@ -66,6 +66,7 @@ As one of the pioneer models in this field, Diff-Symbo paves the way towards con
 | **Musecoco**<br>  <audio controls><source src="./data/8-bar/Musecoco/0.wav" type="audio/wav">Your browser does not support the audio element.</audio> | **GPT-4** <br> <audio controls><source src="./data/8-bar/GPT-4/0.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
 | <img src="./data/fig/8-bar/Musecoco/0.png" alt="noisy" width="100%" /> | <img src="./data/fig/8-bar/GPT/0.png" alt="baseline" width="100%" /> |
 
+
 ## Music Continuation
 <h3 id = "3"> Case 1</h3>
 
@@ -102,4 +103,40 @@ As one of the pioneer models in this field, Diff-Symbo paves the way towards con
 | <img src="./data/fig/continuation/MMT/15.png" alt="noisy" width="100%" /> | <img src="./data/fig/continuation/GPT/15.png" alt="baseline" width="100%" /> |
 
 
+
+
+## Text-to-32 bar Music Generation
+<h3 id = "3"> Case 1</h3>
+
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
+| **Ours** <br><audio controls><source src="./data/32-bar/Ours/24.wav" type="audio/wav">Your browser does not support the audio element.</audio> | **MMT** <br>  <audio controls><source src="./data/32-bar/MMT/24.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
+| <img src="./data/fig/32-bar/ours/24.png" alt="noisy" width="100%" /> | <img src="./data/fig/32-bar/MMT/24.png" alt="baseline" width="100%" /> |
+| **GPT-4**<br>  <audio controls><source src="./data/32-bar/GPT/24.wav" type="audio/wav">Your browser does not support the audio element.</audio> | :-----------: |
+| <img src="./data/fig/32-bar/GPT/24.png" alt="noisy" width="100%" /> | :--------: |
+
+<h3 id = "3"> Case 2</h3>
+
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
+| **Ours** <br><audio controls><source src="./data/32-bar/Ours/25.wav" type="audio/wav">Your browser does not support the audio element.</audio> | **MMT** <br>  <audio controls><source src="./data/32-bar/MMT/25.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
+| <img src="./data/fig/32-bar/ours/25.png" alt="noisy" width="100%" /> | <img src="./data/fig/32-bar/MMT/25.png" alt="baseline" width="100%" /> |
+| **GPT-4**<br>  <audio controls><source src="./data/32-bar/GPT/25.wav" type="audio/wav">Your browser does not support the audio element.</audio> | :-----------: |
+| <img src="./data/fig/32-bar/GPT/25.png" alt="noisy" width="100%" /> | :--------: |
+
+
+<h3 id = "3"> Case 3</h3>
+
+
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
+| **Ours** <br><audio controls><source src="./data/32-bar/Ours/34.wav" type="audio/wav">Your browser does not support the audio element.</audio> | **MMT** <br>  <audio controls><source src="./data/32-bar/MMT/34.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
+| <img src="./data/fig/32-bar/ours/34.png" alt="noisy" width="100%" /> | <img src="./data/fig/32-bar/MMT/34.png" alt="baseline" width="100%" /> |
+| **GPT-4**<br>  <audio controls><source src="./data/32-bar/GPT/34.wav" type="audio/wav">Your browser does not support the audio element.</audio> | :-----------: |
+| <img src="./data/fig/32-bar/GPT/34.png" alt="noisy" width="100%" /> | :--------: |
+
+<h3 id = "3"> Case 4</h3>
+
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
+| **Ours** <br><audio controls><source src="./data/32-bar/Ours/53.wav" type="audio/wav">Your browser does not support the audio element.</audio> | **MMT** <br>  <audio controls><source src="./data/32-bar/MMT/53.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
+| <img src="./data/fig/32-bar/ours/53.png" alt="noisy" width="100%" /> | <img src="./data/fig/32-bar/MMT/53.png" alt="baseline" width="100%" /> |
+| **GPT-4**<br>  <audio controls><source src="./data/32-bar/GPT/53.wav" type="audio/wav">Your browser does not support the audio element.</audio> | :-----------: |
+| <img src="./data/fig/32-bar/GPT/53.png" alt="noisy" width="100%" /> | :--------: |
 
